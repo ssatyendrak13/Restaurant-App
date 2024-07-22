@@ -20,3 +20,5 @@ Now make a file name as config.env
 
 ** Now create the server.js file 
 ** create the app.js file 
+
+*** We have an enviroment variable name as config.env. TO access this enviroment variable we can user process.env.variable_name(eg. process.env.PORT)
